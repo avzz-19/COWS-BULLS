@@ -1,0 +1,2 @@
+# COWS-BULLS
+A game like Wordle such that the letters of a secret word are guessed correctly. The Secret is a 5 letter word. The user can enter n number of his guesses. If a guess has the same letters as the Secret but is not in the same position it is referred to as a bull. If the letter and position both are correctly guessed it is called a cow. For each guess you need to print the number of cows and bulls. The game ends when the user gets all 5 Cows.
